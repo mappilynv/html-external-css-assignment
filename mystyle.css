@@ -1,0 +1,27 @@
+#cfh{
+    background-color: purple;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    justify-content: flex-start;
+    align-content: center;
+    font-size: 50px;
+    padding: 20px 15px 20px 15px;
+}
+
+.navbar{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    padding: 0px 50px 0px 0px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.items {
+    padding: 0px 20px;
+}
